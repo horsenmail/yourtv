@@ -1,4 +1,4 @@
 [
-"https://url.freenet.ddns-ip.net/downurl1",
+"https://github.horsenma.top/https://raw.githubusercontent.com/horsenmail/yourtv/main/yourtvversionurl.txt"
 "https://url.freenet.ddns-ip.net/downurl1",
 ]
