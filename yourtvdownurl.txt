@@ -1,0 +1,4 @@
+[
+"https://url.freenet.ddns-ip.net/downurl1",
+"https://url.freenet.ddns-ip.net/downurl1",
+]
